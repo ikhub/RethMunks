@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9Be0a301379698489F401b04e7c24eF44Acf6403",
+  "SCAN_LINK": "https://explorer.rethereum.org/token/0x9Be0a301379698489F401b04e7c24eF44Acf6403/inventory",
+  "NETWORK": {
+    "NAME": "Rethereum",
+    "SYMBOL": "RTH",
+    "ID": 622277
+  },
+  "NFT_NAME": "Reth Munks",
+  "SYMBOL": "REMU",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 9990000000000000000,
+  "DISPLAY_COST": 9.99,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}
